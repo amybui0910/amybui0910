@@ -1,6 +1,6 @@
 Hi, I’m @amybui0910
 I’m interested in learning new things! 
-I’m currently learning C++. 
+I’m currently learning various languages.
 Reach me at amybui122@gmail.com
 
 <!---
